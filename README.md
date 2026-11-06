@@ -1,4 +1,4 @@
-t# Useful Python Scripts
+# Useful Python Scripts
 
 Small Windows utilities for keeping a computer awake and managing large archive downloads and extraction jobs.
 
